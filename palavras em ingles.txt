@@ -1,0 +1,17 @@
+file-arquivo
+folder-pasta
+new-novo
+source(src)-fonte
+save-salvar
+title-titulo
+settings-configuraçao
+preferences-preferencias
+all-tudo
+font-fontes (letras)
+background- plano de fundo
+color- cor
+border-borda
+style-estilo
+head-cabeça
+body-corpo
+size-tamanho
